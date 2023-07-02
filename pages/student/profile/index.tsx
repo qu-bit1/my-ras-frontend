@@ -9,7 +9,7 @@ import studentRequest, { Student } from "@callbacks/student/student";
 import useStore from "@store/store";
 import { getDepartment, getProgram } from "@components/Parser/parser";
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
+// eslint-disable-next-line @typescript-eslint/no-explicit-anykkkkk
 const info: { field: string; value: string; disabled: boolean; api_id: any }[] =
   [
     {
